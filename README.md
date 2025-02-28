@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Banik</h1>
 <h3 align="center">A passionate Digital Marketer and UI/UX Designer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/4I9G.gif">
+<img align="center" alt="coding" width="400" src="https://i.gifer.com/4I9G.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abamitbanik&label=Profile%20views&color=0e75b6&style=flat" alt="abamitbanik" /> </p>
 
